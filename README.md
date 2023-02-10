@@ -1,6 +1,6 @@
 # [In-progress] Interview Questions (NodeJS)
 
-## Data Structures
+## Table of Questions
 
 | Question | Answer |
 | -------- | ------ |
