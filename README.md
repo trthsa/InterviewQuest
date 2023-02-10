@@ -4,11 +4,4 @@
 
 | Question | Answer |
 | -------- | ------ |
-| ```
-undefined
-``` | Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine that allows developers to write server-side applications in JavaScript. It is an open-source, cross-platform runtime environment for developing server-side and networking applications. Features include: 
-
-- Event-driven, asynchronous I/O
-- Single-threaded with a very efficient memory model
-- High scalability
-- Supports multiple programming paradigms, including object-oriented, functional, and event-driven programming styles. |
+| ##### What is nodejs? | Node.js is an open-source, cross-platform JavaScript runtime environment for developing a diverse variety of server tools and applications. It allows developers to use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. |
