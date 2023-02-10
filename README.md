@@ -4,14 +4,14 @@
 
 | Question | Answer |
 | -------- | ------ |
-|  | ... |
+| Here are 10 interview questions about NodeJS: | ... |
 | 1. What is Node.js? | ... |
-| 2. What are the benefits of using Node.js? | ... |
-| 3. What is the difference between Node.js and JavaScript? | ... |
+| 2. What is the difference between Node.js and JavaScript? | ... |
+| 3. What are the benefits of using Node.js? | ... |
 | 4. What is the event loop in Node.js? | ... |
-| 5. What is the purpose of Node.js? | ... |
-| 6. What is the single thread model in Node.js? | ... |
-| 7. What are the features of Node.js? | ... |
-| 8. What is the purpose of the 'require' keyword in Node.js? | ... |
-| 9. What is the purpose of the 'module.exports' in Node.js? | ... |
-| 10. What is the purpose of the 'NPM' in Node.js? | ... |
+| 5. What is the purpose of the callback function in Node.js? | ... |
+| 6. What is npm in Node.js? | ... |
+| 7. What is the purpose of modules in Node.js? | ... |
+| 8. What is the difference between synchronous and asynchronous code in Node.js? | ... |
+| 9. What are the different types of streams available in Node.js? | ... |
+| 10. What are the features of the latest version of Node.js? | ... |
