@@ -1,7 +1,7 @@
-# Interview Questions
+# [In-progress]Interview Questions (NodeJS))
 
 ## Data Structures
 
 | Question | Answer |
 | -------- | ------ |
-| What is a linked list? | A linked list is a data structure consisting of a collection of nodes which together represent a sequence. Each node contains data and a link to the next node in the sequence. |
+| What is nodejs? | Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. It allows developers to create server-side and networking applications. |
