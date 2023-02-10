@@ -4,15 +4,4 @@
 
 | Question | Answer |
 | -------- | ------ |
-| **What is nodejs?** | Node.js is a JavaScript runtime environment that allows you to run JavaScript on the server side. It includes a rich library of built-in modules that provide APIs for commonly used tasks: 
-
-• File System I/O 
-• Networking (HTTP, TCP, UDP, DNS, etc.) 
-• Binary Data 
-• Cryptography 
-• Data Streams 
-• Processes 
-• Timers 
-• Events 
-• URL Parsing 
-• Utilities |
+| **What is nodejs?** | Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to create server-side applications quickly and easily. Features of Node.js include:\\• Asynchronous I/O\• Event-driven architecture\• Single-threaded, non-blocking I/O model\• Support for multiple programming paradigms\• Easier scalability and deployment of applications |
